@@ -90,7 +90,7 @@ Entries are saved in `output.json` using this format:
     
 -   Retry logic on save with file verification
     
--   Logs to `sicorps.log` with warning and error reporting
+-   Logs to `dataset.log` with warning and error reporting
     
 
 * * *
